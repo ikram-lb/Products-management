@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "IjEyMzQi",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImV4cCI6MTU2Nzk3NjQ0MjYsImZpcnN0bmFtZSI6Im1hcnlhbSIsImxhc3RuYW1lIjoibmZhZCIsImlhdCI6MTUxNjIzOTAyMiwicm9sZXMiOlsiVVNFUiJdfQ.2yeXucDkGxI7diXVJS54lH8YcZgaaFa3LC35X8oDGR4"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImV4cCI6MTU2Nzk3NjQ0MjYsImZpcnN0bmFtZSI6Im1hcnlhbSIsImxhc3RuYW1lIjoibmZhZCIsImlhdCI6MTUxNjIzOTAyMiwicm9sZXMiOlsiVVNFUiJdfQ._6MsT0lYbQVUQocdtsH6u_RuEEOPUuCfGN_NqYVy_O4"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImV4cCI6MTU2Nzk3NjQ0MjYsImZpcnN0bmFtZSI6Im1hcnlhbSIsImxhc3RuYW1lIjoibmZhZCIsImlhdCI6MTUxNjIzOTAyMiwicm9sZXMiOlsiVVNFUiIsIkFETUlOIl19.HF6vomC-9WjlLL32MNBGejWtSgbJHHPg18tshwUJJos"
+    }
+  ],
+  "products": [
+    {
+      "id": "3",
+      "name": "Tablet",
+      "price": 800,
+      "checked": true
+    },
+    {
+      "id": "5",
+      "name": "Laptop",
+      "price": 2500,
+      "checked": true
+    },
+    {
+      "id": "6",
+      "name": "Smartwatch",
+      "price": 300,
+      "checked": true
+    },
+    {
+      "id": "7",
+      "name": "Camera",
+      "price": 1500,
+      "checked": true
+    },
+    {
+      "id": "f5af",
+      "name": "P6",
+      "price": "100",
+      "checked": true
+    },
+    {
+      "id": "6e90",
+      "name": "P7",
+      "price": "100",
+      "checked": true
+    },
+    {
+      "id": "3f2d",
+      "name": "P8",
+      "price": "300",
+      "checked": true
+    },
+    {
+      "id": "3888",
+      "name": "Produit",
+      "price": "150",
+      "checked": true
+    },
+    {
+      "id": "fead",
+      "name": "New P",
+      "price": "1000",
+      "checked": true
+    }
+  ]
+}
